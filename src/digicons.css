@@ -4,6 +4,7 @@
   src: url("fonts/digicons.eot?uywqel#iefix") format("embedded-opentype"),
     url("fonts/digicons.ttf?uywqel") format("truetype"),
     url("fonts/digicons.woff?uywqel") format("woff"),
+    url("fonts/digicons.woff2?uywqel") format("woff2"),
     url("fonts/digicons.svg?uywqel#digicons") format("svg");
   font-weight: normal;
   font-style: normal;
