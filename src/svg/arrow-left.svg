@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <clipPath id="clip-arrow-left">
+      <rect width="64" height="64"/>
+    </clipPath>
+  </defs>
+  <g id="arrow-left" clip-path="url(#clip-arrow-left)">
+    <path id="path-arrow-left" d="M932.243-30H982a3,3,0,0,0,3-3,3,3,0,0,0-3-3H931.243l11.849-11.849a3,3,0,0,0,0-4.243,3,3,0,0,0-4.243,0l-16.97,16.971a3,3,0,0,0,0,4.243l16.97,16.971a3,3,0,0,0,4.243,0,3,3,0,0,0,0-4.243Z" transform="translate(-921 65)" fill="#202020" fill-rule="evenodd"/>
+  </g>
+</svg>

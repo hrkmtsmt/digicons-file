@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <clipPath id="clip-vue">
+      <rect width="64" height="64"/>
+    </clipPath>
+  </defs>
+  <g id="vue" clip-path="url(#clip-vue)">
+    <path id="path-vue" d="M39.385,0l-7.39,12.8L24.6,0H0l32,55.426L63.995,0Z" transform="translate(0.005 4.286)" fill="#202020"/>
+  </g>
+</svg>
