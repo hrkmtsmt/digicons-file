@@ -5,6 +5,6 @@
     </clipPath>
   </defs>
   <g id="vue" clip-path="url(#clip-vue)">
-    <path id="path-vue" d="M39.385,0l-7.39,12.8L24.6,0H0l32,55.426L63.995,0Z" transform="translate(0.005 4.286)" fill="#202020"/>
+    <path id="path-vue" d="M32,0l-6,10.4-6-10.4H0l26,45.034L51.995,0Z" transform="translate(6.005 9.482)" fill="#202020"/>
   </g>
 </svg>

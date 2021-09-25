@@ -1,17 +1,18 @@
 @font-face {
   font-family: "digicons";
-  src: url("fonts/digicons.eot?uywqel");
-  src: url("fonts/digicons.eot?uywqel#iefix") format("embedded-opentype"),
-    url("fonts/digicons.ttf?uywqel") format("truetype"),
-    url("fonts/digicons.woff?uywqel") format("woff"),
-    url("fonts/digicons.woff2?uywqel") format("woff2"),
-    url("fonts/digicons.svg?uywqel#digicons") format("svg");
+  src: url("fonts/digicons.eot?vgidpp");
+  src: url("fonts/digicons.eot?vgidpp#iefix") format("embedded-opentype"),
+    url("fonts/digicons.ttf?vgidpp") format("truetype"),
+    url("fonts/digicons.woff2?vgidpp") format("woff2"),
+    url("fonts/digicons.woff?vgidpp") format("woff"),
+    url("fonts/digicons.svg?vgidpp#digicons") format("svg");
   font-weight: normal;
   font-style: normal;
   font-display: block;
 }
 
 i {
+  /* use !important to prevent issues with browser extensions that change fonts */
   font-family: "digicons" !important;
   speak: never;
   font-style: normal;
@@ -19,6 +20,8 @@ i {
   font-variant: normal;
   text-transform: none;
   line-height: 1;
+
+  /* Better Font Rendering =========== */
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
